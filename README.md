@@ -1,10 +1,12 @@
 # DesafioInfoGlobo
-Desafio de Engenharia Backend Java Infoglobo
+Desafio de Engenharia Backend em Java da Infoglobo
 
 # Solução
-Desafio de Engenharia Backend Java (https://github.com/Infoglobo/desafio-back-end).
+Desafio de Engenharia Backend (https://github.com/Infoglobo/desafio-back-end).
 
-Criar um crawler que leia (http://revistaautoesporte.globo.com/rss/ultimas/feed.xml) e retorne um json estruturado.
+Criação de um crawler que busca (http://revistaautoesporte.globo.com/rss/ultimas/feed.xml) que retorne um Json.
+
+Aplicação desenvolvido em java utililizando a biblioteca Gson do google.
 
 # Execução
 Executar o App.java no eclipse
